@@ -2,7 +2,7 @@
   "name": "insight-ui-gobyte",
   "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the GoByte network and build your own services with it.",
   "version": "0.4.3",
-  "repository": "git://github.com/gobytecoin/insight-ui-gobyte.git",
+  "repository": "git://github.com/apollomatheus/insight-ui-gobyte.git",
   "contributors": [
     {
       "name": "Matias Alejo Garcia",
@@ -26,9 +26,9 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/gobytecoin/insight-ui-gobyte/issues"
+    "url": "https://github.com/apollomatheus/insight-ui-gobyte/issues"
   },
-  "homepage": "https://github.com/gobytecoin/insight-ui-gobyte",
+  "homepage": "https://github.com/apollomatheus/insight-ui-gobyte",
   "license": "MIT",
   "keywords": [
     "insight",
@@ -38,7 +38,7 @@
     "bitcore-gobyte",
     "front-end"
   ],
-  "bitcoreNode": "bitcore-node-gobyte",
+  "bitcoreNode": "bitcore-node",
   "dependencies": {
   },
   "devDependencies": {
